@@ -9,7 +9,7 @@
 
 
 ### Team Members
-- Team Lead:[Pavithra A] - [MBCCET Kuttikanom]
+- member1:[Pavithra A] - [MBCCET Kuttikanom]
 - Member 2: [Harinandana S] -[MBCCET Kuttikanom]
   
 
