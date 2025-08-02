@@ -29,26 +29,17 @@ For Software:
 
 
 
-# Screenshots (Add at least 3)
 
-![Screenshot1(img1.png)
-![Screenshot2](img2.png)
-![Screenshot3](img3.png)
+
+
+![Screenshot1](img2.png)
+![Screenshot2](img3.png)
 
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+[
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
